@@ -1,0 +1,44 @@
+{
+  "eventKey": "repo:refs_changed",
+  "date": "2019-08-14T22:34:10-0300",
+  "actor": {
+    "name": "c.rfelix",
+    "emailAddress": "",
+    "id": 602,
+    "displayName": "Renato Alves Felix",
+    "active": true,
+    "slug": "c.rfelix",
+    "type": "NORMAL"
+  },
+  "repository": {
+    "slug": "correspondencias",
+    "id": 106,
+    "name": "correspondencias",
+    "scmId": "git",
+    "state": "AVAILABLE",
+    "statusMessage": "Available",
+    "forkable": true,
+    "project": {
+      "key": "SGM",
+      "id": 142,
+      "name": "SGM",
+      "description": "Sistema de Gestão de Malote",
+      "public": false,
+      "type": "NORMAL"
+    },
+    "public": false
+  },
+  "changes": [
+    {
+      "ref": {
+        "id": "refs/heads/master",
+        "displayId": "openshift",
+        "type": "BRANCH"
+      },
+      "refId": "refs/heads/master",
+      "fromHash": "c029d13c71ad910f7d743d114be584189369e723",
+      "toHash": "35afce05b9e328c3719528a1b882df0a8a34234c",
+      "type": "UPDATE"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+curl -k -X POST -H "Content-Type: application/json"  --data @body.json -vs https://jenkins-cicd-tools.app.mycompany.com/generic-webhook-trigger/invoke?token=abc123

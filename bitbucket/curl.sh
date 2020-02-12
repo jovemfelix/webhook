@@ -1,0 +1,2 @@
+#curl -i -X POST -H "Content-Type: application/json"  --data @body.json -vs http://jenkins-bitbucket-cicd-tools.ocp.mycompany.org.br/generic-webhook-trigger/invoke?token=abc123
+curl -i -X POST -H "Content-Type: application/json"  --data @body.json -vs http://jenkins-bitbucket-cicd-tools.ocp.mycompany.org.br/generic-webhook-trigger/invoke?token=correspondencias-abc123
